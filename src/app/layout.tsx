@@ -16,7 +16,7 @@ const geistMono = localFont({
 const aldrich = localFont({
   src: "./fonts/Aldrich.ttf",
   variable: "--font-aldrich",
-  weight: "400",
+  weight: "100 900",
 }); 
 
 export const metadata: Metadata = {
